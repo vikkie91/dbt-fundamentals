@@ -9,4 +9,4 @@ with customers as (
 
 )
 
-Select * from customers;
+select * from customers
