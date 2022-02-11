@@ -10,3 +10,7 @@ with customers as (
 )
 
 select * from customers
+
+/*select * 
+from dbt_vikkie91.stg_customers
+order by customer_id */
